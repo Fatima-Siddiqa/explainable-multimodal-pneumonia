@@ -1,0 +1,11 @@
+model,subset,metadata_share_pct,metadata_share_p95_pct
+fusion_as,All,0.9827528,2.9602346
+fusion_as,AP,1.2504812,3.846154
+fusion_as,PA,0.7550712,2.4193547
+fusion_as,Positive,0.77451116,2.6552734
+fusion_as,Negative,1.0505786,3.1823537
+fusion_asv,All,1.4963261,5.7827415
+fusion_asv,AP,1.9735293,7.583961
+fusion_asv,PA,1.0905027,3.5528893
+fusion_asv,Positive,1.1090348,3.4822025
+fusion_asv,Negative,1.6224697,6.587805

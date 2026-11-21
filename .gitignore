@@ -1,0 +1,20 @@
+# model weights and image caches
+*.pt
+*.npy
+*.zip
+*.dcm
+*.json
+Data_Entry_*.csv
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# latex build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+data/raw/

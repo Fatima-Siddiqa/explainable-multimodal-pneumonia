@@ -1,0 +1,8 @@
+model,input,mean_abs_dp
+fusion_as,age_n,0.00014110617
+fusion_as,sex_m,0.00070554164
+fusion_as,image,0.32092276
+fusion_asv,age_n,0.00040927928
+fusion_asv,sex_m,0.00037427765
+fusion_asv,view_ap,0.0012660457
+fusion_asv,image,0.321256
