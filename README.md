@@ -46,7 +46,9 @@ paper/       LaTeX source, tables and figures
 ## Paper
 
 Explainable Multimodal Pneumonia Detection on
-Chest Radiographs: Does Patient Metadata Help?, Mariam Shaiq, Fatima Siddiqa. Source in [`paper/`](paper/).
+Chest Radiographs: Does Patient Metadata Help?, Mariam Shaiq, Fatima Siddiqa.
+
+[Read the paper (PDF)](paper/explainable-multimodal-pneumonia.pdf) · [LaTeX source](paper/)
 
 ## Authors
 
